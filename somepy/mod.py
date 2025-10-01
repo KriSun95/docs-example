@@ -7,4 +7,4 @@ def afunc():
         (l / (1 + np.exp(-k*(mid_energies.value-x0))) + b)
 
     """
-    return
+    return 1+2
