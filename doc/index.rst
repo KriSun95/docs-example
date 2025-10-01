@@ -12,3 +12,12 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
+
+``somepy`` Package
+==================
+
+.. automodule:: somepy
+   :members:
+
+
+.. automodapi:: somepy.mod
