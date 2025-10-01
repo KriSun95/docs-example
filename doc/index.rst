@@ -21,3 +21,5 @@ Welcome to Example's documentation!
 
 
 .. automodapi:: somepy.mod
+
+.. autofunction:: afunc
