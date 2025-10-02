@@ -9,10 +9,16 @@ def afunc():
     """
     return 1+2
 
-
-
 def bfunc():
     """An example docstring again
+
+    some more docs here
+
+    """
+    return 3+4
+
+def cfunc():
+    """An example docstring again again
 
     some more docs here
 
